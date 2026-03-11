@@ -1,0 +1,16 @@
+# Compiled class file
+*.class
+bin/
+
+# Temporary data files
+books.txt
+members.txt
+*.csv
+test_input.txt
+
+# Log file
+*.log
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
